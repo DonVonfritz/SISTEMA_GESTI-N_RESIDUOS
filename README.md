@@ -2,7 +2,7 @@
 [FASE4_GestiónResiduos_HTML_EF.txt](https://github.com/user-attachments/files/17877258/FASE4_GestionResiduos_HTML_EF.txt)
 SISTEMA DE GESTIÓN RESIDUOS
 
-CÓDIGO HTML  
+CÓDIGOS HTML, CSS, JAVASCRIPT.  
 
 [FASE4_GestiónResiduos_HTML_EF.txt](https://github.com/user-attachments/files/17877253/FASE4_GestionResiduos_HTML_EF.txt)
 
